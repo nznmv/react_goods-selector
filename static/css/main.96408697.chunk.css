@@ -1,0 +1,2 @@
+html{font-family:Helvetica,sans-serif}li{list-style:none}.heading{display:flex;align-items:center}.button{padding:3px 10px;font-size:16px;background-color:#fff;border:none;cursor:pointer}.button--reset{width:70px;height:30px;display:flex;justify-content:center;align-items:center;background-color:red;margin-left:20px}.button--reset:after{content:"Delete";color:#fff}.button--good-selected{font-weight:700;border-radius:3px;background-color:#ff0}
+/*# sourceMappingURL=main.96408697.chunk.css.map */
